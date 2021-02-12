@@ -1,39 +1,32 @@
-<html>
-<head>
-   <style>
-   
-      h3 {
-         text-transform:uppercase;
-         text-decoration:underline;
-         font-family:courier new;
-      }
+h3 {
+   text-transform:uppercase;
+   text-decoration:underline;
+   font-family:courier new;
+}
 
-      h1 {
-         font-family:courier new;
-         text-transform:uppercase;
-      }
+h1 {
+   font-family:courier new;
+   text-transform:uppercase;
+}
 
-      p {
-         font-family:courier new;
-      }
+p {
+   font-family:courier new;
+}
 
-      a {
-         font-family:courier new;
-         color:white;
-      }
+a {
+   font-family:courier new;
+   color:white;
+}
       
-      .center-table {
-         margin-left:auto;
-         margin-right:auto;
-      }
+.center-table {
+   margin-left:auto;
+   margin-right:auto;
+}
       
-      .center-list {
-         text-align:center;
-      }
+.center-list {
+   text-align:center;
+}
       
-      .center-list ul li{
-         text-align:center;
-      }
-   </style>
-</head>
-</html>
+.center-list ul li{
+   text-align:center;
+}
