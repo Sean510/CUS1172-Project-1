@@ -1,12 +1,7 @@
 <html>
 <head>
-  <style>
+<style>
    
-    {
-      text-align:center;
-      color:white;
-    }
-    
     h1 {
       
       font-family:courier new;
@@ -15,6 +10,7 @@
     h2 {
       
       font-family:courier new;
+      text-transform:uppercase;
     }
 
     h3 {
@@ -39,6 +35,6 @@
     .center-list ul li{
       display:inline;
     }
-  </style>
+</style>
 </head>
 </html>
