@@ -1,23 +1,29 @@
 <html>
 <head>
   <style>
-    h1 {
+   
+    {
+      text-align:center;
       color:white;
+    }
+    
+    h1 {
+      
       font-family:courier new;
     }
 
     h2 {
-      color:white;
+      
       font-family:courier new;
     }
 
     h3 {
-      color:white;
+    
       font-family:courier new;
     }
 
     p {
-      color:white;
+      
       font-family:courier new;
     }
       
