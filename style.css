@@ -3,13 +3,14 @@
 <style>
    
     h1 {
-      font-family:courier new
+      font-family:courier new;
+      text-transform:uppercase;
     }
 
 
     h3 {
       font-family:courier new;
-      text-transform:uppercase
+      text-transform:uppercase;
     }
 
     p {
