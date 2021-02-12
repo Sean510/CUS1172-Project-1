@@ -1,1 +1,41 @@
+<html>
+<head>
+  <style>
+    h1 {
+      color:white;
+      text-align:center;
+      font-family:courier new;
+    }
 
+    h2 {
+      color:white;
+      text-align:center;
+      font-family:courier new;
+    }
+
+    h3 {
+      color:white;
+      text-align:center;
+      font-family:courier new;
+
+    paragraph {
+      color:white;
+      text-align:center;
+      font-family:courier new;
+    }
+      
+    .center-table {
+      margin-left:auto;
+      margin-right:auto;
+    }
+      
+    .center-list {
+      text-align:center;
+    }
+      
+    .center-list ul li{
+      display:inline;
+    }
+  </style>
+</head>
+</html>
