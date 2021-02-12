@@ -3,8 +3,8 @@
       <style>
    
          h1 {
-            font-family:courier new;
-            text-transform:uppercase;
+            font-family:courier new !important;
+            text-transform:uppercase !important;
          }
 
          h3 {
