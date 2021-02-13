@@ -60,6 +60,6 @@ form input {
    text-align:center;
 }
       
-.center-list ul li{
-   text-align:center;
+.center-list li{
+   display:inline-block;
 }
