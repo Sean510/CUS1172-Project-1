@@ -70,6 +70,10 @@ form {
    list-style-type:none;
 }
 
+.center-list ul {
+   list-style-position:inside;
+}
+
 
 
       
