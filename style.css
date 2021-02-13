@@ -65,8 +65,11 @@ form {
 }
       
 .center-list {
-   margin-left:auto;
-   margin-right:auto;
+   text-align:center;
+}
+
+.center-list ul {
+   display: inline-block;
 }
 
 
