@@ -1,4 +1,7 @@
-
+ul, li {
+   color:white;
+   font-family:courier new;
+}
 
 h3 {
    text-transform:uppercase;
