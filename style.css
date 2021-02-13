@@ -9,6 +9,10 @@ table th {
    font-family:courier new;
 }
 
+ul {
+   list-style-position:inside;
+}
+
 li {
    color:white;
    font-family:courier new;
@@ -68,10 +72,11 @@ form {
    text-align:center;
 }
 
-.center-list > ul {
-   list-style-position:inside;
+@media print {
+   .screen_only {
+      display: none;
+   }
 }
-
 
 
 
