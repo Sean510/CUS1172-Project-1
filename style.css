@@ -1,10 +1,10 @@
 
-td thead th {
+table th {
    color:white;
    font-family:courier new;
 }
 
-th {
+table td {
    color:white;
    font-family:courier new;
 }
