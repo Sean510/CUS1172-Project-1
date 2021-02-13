@@ -3,6 +3,11 @@ th {
    color:white;
 }
 
+tr {
+   font-family:courier new;
+   color:white
+}
+
 li {
    color:white;
    font-family:courier new;
