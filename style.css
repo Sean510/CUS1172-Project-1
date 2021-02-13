@@ -32,11 +32,15 @@ img {
    margin-right:auto;
 }
 
-form {
+form label {
    text-align:center;
    font-family:courier new;
    color:white;
 }
+
+list ul li {
+   font-family:courier new;
+   color:white;
 
 table th tr {
    font-family:courier new;
@@ -53,7 +57,5 @@ table th tr {
 }
       
 .center-list ul li{
-   text-align:center;
-   font-family:courier new;
-   color:white;
+   text-align:inline;
 }
