@@ -38,22 +38,12 @@ iframe {
    margin-right:auto;
 }
 
-form label input {
+form label {
    text-align:center;
    font-family:courier new;
    color:white;
 }
-
-ul li {
-   font-family:courier new;
-   color:white;
-}
-
-table th tr {
-   font-family:courier new;
-   color:white;
-}
-      
+    
 .center-table {
    margin-left:auto;
    margin-right:auto;
