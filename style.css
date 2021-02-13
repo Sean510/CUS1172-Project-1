@@ -67,7 +67,7 @@ form {
 .center-list {
    display:table;
    margin:auto;
-   list-style-type:none;
+   list-style-position:inside;
 }
 
 .center-list ul {
