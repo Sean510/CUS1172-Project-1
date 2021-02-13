@@ -1,6 +1,7 @@
 th {
    font-family:courier new;
    color:white;
+}
 
 li {
    color:white;
@@ -60,5 +61,6 @@ form {
       
 .center-list {
    text-align:center;
+   ul {list-style-position:inside;}
 }
       
