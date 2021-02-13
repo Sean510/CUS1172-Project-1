@@ -38,7 +38,7 @@ iframe {
    margin-right:auto;
 }
 
-form label {
+form label input {
    text-align:center;
    font-family:courier new;
    color:white;
