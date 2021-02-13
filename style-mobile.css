@@ -1,15 +1,15 @@
 body {
-   background-color:red;
+   background-color:black;
 }
 
 table td {
    color:white;
-   font-family:monaco;
+   font-family:impact;
 }
 
 table th {
    color:white;
-   font-family:monaco;
+   font-family:impact;
 }
 
 ul {
@@ -18,33 +18,33 @@ ul {
 
 li {
    color:white;
-   font-family:monaco;
+   font-family:impact;
 }
 
 h3 {
    text-transform:uppercase;
    text-decoration:underline;
-   font-family:monaco;
+   font-family:impact;
    color:white;
    text-align:center;
    
 }
 
 h1 {
-   font-family:monaco;
+   font-family:impact;
    text-transform:uppercase;
    text-align:center;
    color:white;
 }
 
 p {
-   font-family:monaco;
+   font-family:impact;
    text-align:center;
    color:white;
 }
 
 a {
-   font-family:monaco;
+   font-family:impact;
    color:white;
    text-align:center;
 }
@@ -63,7 +63,7 @@ iframe {
 
 form {
    text-align:center;
-   font-family:monaco;
+   font-family:impact;
 }
     
 .center-table {
