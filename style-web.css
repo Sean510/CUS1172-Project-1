@@ -1,3 +1,6 @@
+body {
+   background-color:#50c878
+}
 
 table td {
    color:white;
@@ -78,17 +81,7 @@ form {
    }
 }
 
-@media (max-width: 648px) {
-   body {
-      background-color:#50c878;
-   }
-}
 
-@media (min-width:649px) {
-   body {
-      background-color:black;
-   }
-}
       
 
 
