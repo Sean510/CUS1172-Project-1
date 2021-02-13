@@ -4,6 +4,11 @@ tr {
    font-family:courier new;
 }
 
+th {
+   color:white;
+   font-family:courier new;
+}
+
 li {
    color:white;
    font-family:courier new;
@@ -63,7 +68,5 @@ form {
    text-align:center;
 }
 
-.center-list li{
-   display:inline;
-}
+
       
