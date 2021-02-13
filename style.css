@@ -65,7 +65,7 @@ form {
 }
       
 .center-list {
-   display:inline-block;
+   display:table;
    margin:auto;
    list-style-type:none;
 }
