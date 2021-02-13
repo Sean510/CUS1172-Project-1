@@ -44,9 +44,10 @@ form label {
    color:white;
 }
 
-list ul li {
+ul li {
    font-family:courier new;
    color:white;
+}
 
 table th tr {
    font-family:courier new;
