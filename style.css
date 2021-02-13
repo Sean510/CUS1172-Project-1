@@ -78,12 +78,18 @@ form {
    }
 }
 
-@media (min-width: 1000px) {
+@media (max-width: 648px) {
    body {
       background-color:#50c878;
-      color:black;
    }
 }
+
+@media (min-width:649) {
+   body {
+      background-color:#0ABAB5;
+   }
+}
+      
 
 
 
