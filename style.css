@@ -65,12 +65,10 @@ form {
 }
       
 .center-list {
-   text-align:center;
+   display:table;
+   margin:auto;
 }
 
-.center-list ul {
-   display: inline-block;
-}
 
 
       
