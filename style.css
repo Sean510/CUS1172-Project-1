@@ -78,7 +78,7 @@ form {
    }
 }
 
-@media (min-width: 1000px) and (max-width: 2000px) {
+@media (min-width: 400px) and (max-width: 2000px) {
    body {
       background-color:#50c878;
       color:black;
