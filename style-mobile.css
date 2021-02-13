@@ -1,0 +1,88 @@
+body {
+  background-color:black
+}
+
+table td {
+   color:white;
+   font-family:monaco;
+}
+
+table th {
+   color:white;
+   font-family:monaco;
+}
+
+ul {
+   list-style-position:inside;
+}
+
+li {
+   color:white;
+   font-family:monaco;
+}
+
+h3 {
+   text-transform:uppercase;
+   text-decoration:underline;
+   font-family:monaco;
+   color:white;
+   text-align:center;
+   
+}
+
+h1 {
+   font-family:monaco;
+   text-transform:uppercase;
+   text-align:center;
+   color:white;
+}
+
+p {
+   font-family:monaco;
+   text-align:center;
+   color:white;
+}
+
+a {
+   font-family:monaco;
+   color:white;
+   text-align:center;
+}
+
+img {
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+iframe {
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+form {
+   text-align:center;
+   font-family:monaco;
+}
+    
+.center-table {
+   margin-left:auto;
+   margin-right:auto;
+}
+      
+.center-list {
+   text-align:center;
+}
+
+@media print {
+   .screen_only {
+      display: none;
+   }
+}
+
+      
+
+
+
+      
