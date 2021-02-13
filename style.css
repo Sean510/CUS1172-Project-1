@@ -40,16 +40,10 @@ iframe {
    margin-right:auto;
 }
 
-form label{
+form {
    text-align:center;
    font-family:courier new;
-   color:white;
 }
-
-form input {
-   color:white;
-   font-family:courier new;
-   text-align:center;
     
 .center-table {
    margin-left:auto;
