@@ -54,5 +54,5 @@ form label {
 }
       
 .center-list ul li{
-   text-align:inline;
+   display:inline;
 }
